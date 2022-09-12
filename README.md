@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsrorbekDev
 - 👀 I’m interested in WEB 
 - 🌱 I’m currently learning PHP,SQL,JS
-- 📫 How to reach me: asrorbekuz.t.me
+- 📫 How to reach me: https://asrorbekuz.t.me
 
 <!---
 AsrorbekDev/AsrorbekDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
