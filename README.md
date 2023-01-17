@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB 
 - 🌱 I’m currently learning PHP,SQL,JS
 - 📫 How to reach me: https://asrorbekuz.t.me
-- `My website`: http://asrorbek.uz/?utm_source=github
+- `My website`: http://asrorbek.uz/?utm_source=github_banner
 
 <!---
 AsrorbekDev/AsrorbekDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
