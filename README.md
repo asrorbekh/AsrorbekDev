@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @AsrorbekDev
-- 👀 I’m interested in WEB 
-- 🌱 I’m currently learning PHP,SQL,JS
-- 📫 How to reach me: https://asrorbekuz.t.me
-- `My website`: http://asrorbek.uz/?utm_source=github_banner
 
-<!---
-AsrorbekDev/AsrorbekDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asrorbekdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asrorbekdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asrorbekdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![wakatime](https://wakatime.com/badge/user/426c9c8b-dbe9-458b-a3eb-85a3d0fe1273.svg)](https://wakatime.com/@426c9c8b-dbe9-458b-a3eb-85a3d0fe1273)
+---
+[![](https://visitcount.itsvg.in/api?id=asrorbekdev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
